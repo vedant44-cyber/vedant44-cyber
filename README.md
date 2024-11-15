@@ -28,4 +28,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vedant44-cyber&theme=dark" />
 
 ---
-<img align="center" src="https://holopin.me/vedant44cyber"/>
+
